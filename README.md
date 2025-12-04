@@ -1,4 +1,4 @@
-# 🎮 so_long
+# 🎮 PIPEX
 
 <div align="center">
 
@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/status-active-green.svg" alt="Status">
 
 </div>
-
-# Pipex
 
 ## 📜 About
 
