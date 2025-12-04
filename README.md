@@ -1,4 +1,4 @@
-# 🎮 PIPEX
+# PIPEX
 
 <div align="center">
 
